@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "751983799741",
+    "firebase_url": "https://snapclonetesting.firebaseio.com",
+    "project_id": "snapclonetesting",
+    "storage_bucket": "snapclonetesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751983799741:android:dce2c608459fde7f",
+        "android_client_info": {
+          "package_name": "com.simcoder.snapchatclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751983799741-21imnk3uglem436gmsq2j8nhlm1k80hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC36qWxdcECW2ydyYVJIv4xtaxo4XYopAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
